@@ -1,4 +1,4 @@
-# Project-1-Task-1-JunaidAhmedKhan
+# Project-2-Task-1-JunaidAhmedKhan
 DevelopersHubs Corporation
 
 # 🛍️ Customer Segmentation Using Unsupervised Learning
